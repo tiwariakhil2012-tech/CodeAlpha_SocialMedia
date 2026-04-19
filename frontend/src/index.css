@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  background-color: #f0f2f5; 
+  color: #1c1e21;
+}
+
+.app-container {
+  max-width: 600px; 
+  margin: 0 auto;
+  padding: 20px;
+}
